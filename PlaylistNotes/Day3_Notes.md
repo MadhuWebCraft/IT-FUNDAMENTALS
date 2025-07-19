@@ -26,6 +26,6 @@ Continued tryhackme next module- Networking fundamentals which included:
 
 ## What Was Difficult or Needs More Study:  
 - MAC spoofing how it works if traffic is high.
-- 
+  
 ## Next Steps:  
 - Explore Try Hack Me and learning pre security module.
